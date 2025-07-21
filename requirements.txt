@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-core
+chromadb
+unstructured
+tqdm
+faiss-cpu
+sentence-transformers
+llama-cpp-python
